@@ -1,0 +1,4 @@
+Google Web Server,Page Speed Score,Page Size,Resource Count,Wget Load Time,Wget Resource Count,Wget File Size,React,Varnish,webpack
+,Yes,99,3073,20,Total wall clock time: 0.3s,Downloaded: 1 files,Downloaded: 1 files, 13K
+,90,7936,53,Total wall clock time: 0.3s,Downloaded: 1 files,Downloaded: 1 files, 116K
+,Yes,Yes,Yes,31,14824,92,Total wall clock time: 2.3s,Downloaded: 1 files,Downloaded: 1 files, 570K
