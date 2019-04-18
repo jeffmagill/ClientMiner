@@ -1,11 +1,11 @@
 # Use an official Python runtime as a parent image
 FROM python:3.7-slim
 
-# Set the working directory to /app
-WORKDIR /app
+# Set the working directory to /src
+WORKDIR /src
 
-# Copy the current directory contents into the container at /app
-COPY . /app
+# Copy the current directory contents into the container at /src
+COPY ./src /src
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
@@ -16,6 +16,3 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 # Define environment variable
 ENV NAME World
 ENV MINING_BASE_PATH /host/
-
-# Run app.py when the container launches
-CMD ["python", "app.py"]
