@@ -21,10 +21,10 @@ def run(target_path):
             urls.append(row[0])
 
     m = Miner()
-    m.add_hammer(HTTPHammer)
-    m.add_hammer(MobileHammer)
-    m.add_hammer(PageSpeedHammer)
-    m.add_hammer(WappalyzerHammer)
+    # m.add_hammer(HTTPHammer)
+    # m.add_hammer(MobileHammer)
+    # m.add_hammer(PageSpeedHammer)
+    # m.add_hammer(WappalyzerHammer)
     m.add_hammer(WgetHammer)
     gems = m.hit(urls)
 

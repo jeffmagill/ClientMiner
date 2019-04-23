@@ -1,14 +1,14 @@
-
+from clientminer.utils.contextmanager import capture
 class WgetHammer:
 
     @staticmethod
     def hit(url):
         print (f"Hitting '{url}' with Wget")
-        # puts "Getting Wget for #{url}"
 
-        #     # output = capture_stdout do
-        #        # puts "foobar"
-        #     # end
+        with capture() as out:
+            print ('hi')
+
+        print (f"This is what we captured: {out}")
         #
         #     stdout, stderr, status = Open3.capture3("wget -p #{url}")
         #     output = stderr
