@@ -7,10 +7,6 @@ WORKDIR /src
 # Copy the current directory contents into the container at /src
 COPY ./src /src
 
-# RUN apt update -y
-# RUN apt upgrade -y
-# RUN apt install build-esssential
-
 # Install any needed packages specified in requirements.txt
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
