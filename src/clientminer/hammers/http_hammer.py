@@ -1,3 +1,4 @@
+import scrapy
 
 class HTTPHammer:
 
@@ -6,14 +7,16 @@ class HTTPHammer:
 
     @staticmethod
     def hit(url):
-        print(f"Hitting '{url}' with HTTP")
+        print (f"Hitting '{url}' with W get")
 
-        # start = Time.now
-        # response = HTTParty.get(url)
-        # finish = Time.now
-        #
-        # pp response.code
-        # pp response.body
-        #
-        # response = {}
-        # return response
+        yield scrapy.Request(url=url, callback=self.parse)
+
+    @staticmethod
+    def parse(response):
+        # page = response.url.split("/")[-2]
+        # filename = 'quotes-%s.html' % page
+        # with open(filename, 'wb') as f:
+            # f.write(response.body)
+        # self.log('Saved file %s' % filename)
+        text = response.body
+        print (f"This is what we captured: {text}")

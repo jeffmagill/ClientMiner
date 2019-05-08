@@ -1,14 +1,16 @@
-from clientminer.utils.contextmanager import capture
+import scrapy
+
 class WgetHammer:
 
     @staticmethod
     def hit(url):
         print (f"Hitting '{url}' with Wget")
 
-        with capture() as out:
-            print ('hi')
+        proc = subprocess.Popen(["wget", url], stdout=subprocess.PIPE)
+        out = proc.communicate()[0]
+        text = out.upper()
 
-        print (f"This is what we captured: {out}")
+        print (f"This is what we captured: {text}")
         #
         #     stdout, stderr, status = Open3.capture3("wget -p #{url}")
         #     output = stderr

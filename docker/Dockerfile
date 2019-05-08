@@ -1,11 +1,15 @@
 # Use an official Python runtime as a parent image
-FROM python:3.7-slim
+FROM python:3.7
 
 # Set the working directory to /src
 WORKDIR /src
 
 # Copy the current directory contents into the container at /src
 COPY ./src /src
+
+# RUN apt update -y
+# RUN apt upgrade -y
+# RUN apt install build-esssential
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
