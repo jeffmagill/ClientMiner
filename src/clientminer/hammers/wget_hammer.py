@@ -1,16 +1,37 @@
-import scrapy
+import subprocess
+import re
 
 class WgetHammer:
+
+    wall_clock_regex = re.compile(r"Total wall clock time: ([\d+\.]+\w*)")
+    resource_count_regex = re.compile(r"Downloaded: (\d+) files")
+    file_size_regex = re.compile(r"Downloaded: \d+ files, ([\d+\.KMG]+\w*)")
+    
 
     @staticmethod
     def hit(url):
         print (f"Hitting '{url}' with Wget")
 
-        proc = subprocess.Popen(["wget", url], stdout=subprocess.PIPE)
-        out = proc.communicate()[0]
-        text = out.upper()
+        proc = subprocess.Popen(["wget", "-p", url], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        stdout, stderr = proc.communicate()
+        body = stderr.decode('utf-8')
+        
+        result = {
+            "download-duration": WgetHammer.capture(WgetHammer.wall_clock_regex, body),
+            "download-resource-count": WgetHammer.capture(WgetHammer.resource_count_regex, body),
+            "download-file-size": WgetHammer.capture(WgetHammer.file_size_regex, body)
+        }
+        return result
+        
+    
+    @staticmethod
+    def capture(regex, value):
+        match = regex.search(value)
+        if match:
+            return match.group(1)
+        else:
+            return ""
 
-        print (f"This is what we captured: {text}")
         #
         #     stdout, stderr, status = Open3.capture3("wget -p #{url}")
         #     output = stderr

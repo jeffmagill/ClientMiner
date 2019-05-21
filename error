@@ -1,0 +1,679 @@
+--2019-05-21 13:22:19--  http://unhingedweb.com/
+Resolving unhingedweb.com (unhingedweb.com)... 74.220.219.72
+Connecting to unhingedweb.com (unhingedweb.com)|74.220.219.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘unhingedweb.com/index.html’
+
+     0K .......... .......... ....                              362K=0.07s
+
+2019-05-21 13:22:19 (362 KB/s) - ‘unhingedweb.com/index.html’ saved [24736]
+
+Loading robots.txt; please ignore errors.
+--2019-05-21 13:22:19--  http://unhingedweb.com/robots.txt
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 32 [text/plain]
+Saving to: ‘unhingedweb.com/robots.txt’
+
+     0K                                                       100% 3.83M=0s
+
+2019-05-21 13:22:19 (3.83 MB/s) - ‘unhingedweb.com/robots.txt’ saved [32/32]
+
+--2019-05-21 13:22:19--  http://unhingedweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29295 (29K) [text/css]
+Saving to: ‘unhingedweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2’
+
+     0K .......... .......... ........                        100% 12.1M=0.002s
+
+2019-05-21 13:22:19 (12.1 MB/s) - ‘unhingedweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2’ saved [29295/29295]
+
+--2019-05-21 13:22:19--  http://unhingedweb.com/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1828 (1.8K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5’
+
+     0K .                                                     100%  150K=0.01s
+
+2019-05-21 13:22:19 (150 KB/s) - ‘unhingedweb.com/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5’ saved [1828/1828]
+
+--2019-05-21 13:22:19--  http://unhingedweb.com/wp-includes/css/dashicons.min.css?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 47690 (47K) [text/css]
+Saving to: ‘unhingedweb.com/wp-includes/css/dashicons.min.css?ver=5.2’
+
+     0K .......... .......... .......... .......... ......    100% 5.92M=0.008s
+
+2019-05-21 13:22:19 (5.92 MB/s) - ‘unhingedweb.com/wp-includes/css/dashicons.min.css?ver=5.2’ saved [47690/47690]
+
+--2019-05-21 13:22:19--  http://unhingedweb.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1747 (1.7K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5’
+
+     0K .                                                     100% 84.5M=0s
+
+2019-05-21 13:22:19 (84.5 MB/s) - ‘unhingedweb.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5’ saved [1747/1747]
+
+--2019-05-21 13:22:19--  http://unhingedweb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1685 (1.6K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1’
+
+     0K .                                                     100% 20.8M=0s
+
+2019-05-21 13:22:19 (20.8 MB/s) - ‘unhingedweb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1’ saved [1685/1685]
+
+--2019-05-21 13:22:19--  http://unhingedweb.com/wp-content/plugins/rotatingtweets/css/style.css?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3192 (3.1K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/plugins/rotatingtweets/css/style.css?ver=5.2’
+
+     0K ...                                                   100%  620M=0s
+
+2019-05-21 13:22:20 (620 MB/s) - ‘unhingedweb.com/wp-content/plugins/rotatingtweets/css/style.css?ver=5.2’ saved [3192/3192]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.2.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1217 (1.2K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.2.2’
+
+     0K .                                                     100%  184M=0s
+
+2019-05-21 13:22:20 (184 MB/s) - ‘unhingedweb.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.2.2’ saved [1217/1217]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/themes/gentle/css/theme.css?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 75184 (73K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/css/theme.css?ver=5.2’
+
+     0K .......... .......... .......... .......... .......... 68% 15.0M 0s
+    50K .......... .......... ...                             100% 7.66M=0.006s
+
+2019-05-21 13:22:20 (11.5 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/css/theme.css?ver=5.2’ saved [75184/75184]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/themes/gentle/css/style.css?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69480 (68K) [text/css]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/css/style.css?ver=5.2’
+
+     0K .......... .......... .......... .......... .......... 73% 4.42M 0s
+    50K .......... .......                                    100% 8.02M=0.01s
+
+2019-05-21 13:22:20 (5.01 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/css/style.css?ver=5.2’ saved [69480/69480]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 97183 (95K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-includes/js/jquery/jquery.js?ver=1.12.4’
+
+     0K .......... .......... .......... .......... .......... 52% 13.4M 0s
+    50K .......... .......... .......... .......... ....      100% 12.0M=0.007s
+
+2019-05-21 13:22:20 (12.7 MB/s) - ‘unhingedweb.com/wp-includes/js/jquery/jquery.js?ver=1.12.4’ saved [97183/97183]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10056 (9.8K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1’
+
+     0K .........                                             100% 5.15M=0.002s
+
+2019-05-21 13:22:20 (5.15 MB/s) - ‘unhingedweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1’ saved [10056/10056]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/plugins/rotatingtweets/js/jquery.cycle.all.min.js?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26202 (26K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-content/plugins/rotatingtweets/js/jquery.cycle.all.min.js?ver=5.2’
+
+     0K .......... .......... .....                           100% 4.33M=0.006s
+
+2019-05-21 13:22:20 (4.33 MB/s) - ‘unhingedweb.com/wp-content/plugins/rotatingtweets/js/jquery.cycle.all.min.js?ver=5.2’ saved [26202/26202]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/plugins/rotatingtweets/js/rotating_tweet.js?ver=1.9.8
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13768 (13K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-content/plugins/rotatingtweets/js/rotating_tweet.js?ver=1.9.8’
+
+     0K .......... ...                                        100% 3.25M=0.004s
+
+2019-05-21 13:22:20 (3.25 MB/s) - ‘unhingedweb.com/wp-content/plugins/rotatingtweets/js/rotating_tweet.js?ver=1.9.8’ saved [13768/13768]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.6.0
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8476 (8.3K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.6.0’
+
+     0K ........                                              100%  978K=0.008s
+
+2019-05-21 13:22:20 (978 KB/s) - ‘unhingedweb.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.6.0’ saved [8476/8476]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1147 (1.1K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2’
+
+     0K .                                                     100%  132K=0.008s
+
+2019-05-21 13:22:20 (132 KB/s) - ‘unhingedweb.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2’ saved [1147/1147]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/themes/gentle/js/minified-theme.min.js?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 261070 (255K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/js/minified-theme.min.js?ver=5.2’
+
+     0K .......... .......... .......... .......... .......... 19% 9.12M 0s
+    50K .......... .......... .......... .......... .......... 39% 15.9M 0s
+   100K .......... .......... .......... .......... .......... 58% 12.9M 0s
+   150K .......... .......... .......... .......... .......... 78% 16.0M 0s
+   200K .......... .......... .......... .......... .......... 98%  996K 0s
+   250K ....                                                  100% 4.39M=0.07s
+
+2019-05-21 13:22:20 (3.74 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/js/minified-theme.min.js?ver=5.2’ saved [261070/261070]
+
+--2019-05-21 13:22:20--  http://unhingedweb.com/wp-content/themes/gentle/images/favicon.ico
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/x-icon]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/favicon.ico’
+
+     0K                                                       100% 9.69M=0s
+
+2019-05-21 13:22:21 (9.69 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/favicon.ico’ saved [43/43]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/themes/gentle/images/logo.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24013 (23K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/logo.png’
+
+     0K .......... .......... ...                             100% 4.57M=0.005s
+
+2019-05-21 13:22:21 (4.57 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/logo.png’ saved [24013/24013]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-includes/js/comment-reply.min.js?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2234 (2.2K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-includes/js/comment-reply.min.js?ver=5.2’
+
+     0K ..                                                    100%  372M=0s
+
+2019-05-21 13:22:21 (372 MB/s) - ‘unhingedweb.com/wp-includes/js/comment-reply.min.js?ver=5.2’ saved [2234/2234]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14440 (14K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1’
+
+     0K .......... ....                                       100% 4.10M=0.003s
+
+2019-05-21 13:22:21 (4.10 MB/s) - ‘unhingedweb.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1’ saved [14440/14440]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-includes/js/wp-embed.min.js?ver=5.2
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1403 (1.4K) [application/javascript]
+Saving to: ‘unhingedweb.com/wp-includes/js/wp-embed.min.js?ver=5.2’
+
+     0K .                                                     100%  236M=0s
+
+2019-05-21 13:22:21 (236 MB/s) - ‘unhingedweb.com/wp-includes/js/wp-embed.min.js?ver=5.2’ saved [1403/1403]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-includes/fonts/dashicons.eot?50db0456fde2a241f005968eede3f987
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 44868 (44K) [application/vnd.ms-fontobject]
+Saving to: ‘unhingedweb.com/wp-includes/fonts/dashicons.eot?50db0456fde2a241f005968eede3f987’
+
+     0K .......... .......... .......... .......... ...       100% 16.8M=0.003s
+
+2019-05-21 13:22:21 (16.8 MB/s) - ‘unhingedweb.com/wp-includes/fonts/dashicons.eot?50db0456fde2a241f005968eede3f987’ saved [44868/44868]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-includes/fonts/dashicons.ttf?50db0456fde2a241f005968eede3f987
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 44696 (44K) [font/ttf]
+Saving to: ‘unhingedweb.com/wp-includes/fonts/dashicons.ttf?50db0456fde2a241f005968eede3f987’
+
+     0K .......... .......... .......... .......... ...       100% 3.13M=0.01s
+
+2019-05-21 13:22:21 (3.13 MB/s) - ‘unhingedweb.com/wp-includes/fonts/dashicons.ttf?50db0456fde2a241f005968eede3f987’ saved [44696/44696]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 847 [image/gif]
+Saving to: ‘unhingedweb.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif’
+
+     0K                                                       100%  119M=0s
+
+2019-05-21 13:22:21 (119 MB/s) - ‘unhingedweb.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif’ saved [847/847]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/themes/gentle/images/ui/carousel_arrows.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1056 (1.0K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/ui/carousel_arrows.png’
+
+     0K .                                                     100%  236M=0s
+
+2019-05-21 13:22:21 (236 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/ui/carousel_arrows.png’ saved [1056/1056]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/themes/gentle/images/ui/quote.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1436 (1.4K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/ui/quote.png’
+
+     0K .                                                     100%  262M=0s
+
+2019-05-21 13:22:21 (262 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/ui/quote.png’ saved [1436/1436]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/themes/gentle/images/ui/icons/next_slider.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1102 (1.1K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/ui/icons/next_slider.png’
+
+     0K .                                                     100%  113K=0.01s
+
+2019-05-21 13:22:21 (113 KB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/ui/icons/next_slider.png’ saved [1102/1102]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/themes/gentle/images/ui/icons/prev_slider.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1103 (1.1K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/ui/icons/prev_slider.png’
+
+     0K .                                                     100% 5.70M=0s
+
+2019-05-21 13:22:21 (5.70 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/ui/icons/prev_slider.png’ saved [1103/1103]
+
+--2019-05-21 13:22:21--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/preloader.gif
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 673 [image/gif]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/preloader.gif’
+
+     0K                                                       100%  122M=0s
+
+2019-05-21 13:22:22 (122 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/preloader.gif’ saved [673/673]
+
+--2019-05-21 13:22:22--  http://unhingedweb.com/wp-content/themes/gentle/css/img/corners08.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2019-05-21 13:22:23 ERROR 404: Not Found.
+
+--2019-05-21 13:22:23--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style01.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8743 (8.5K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style01.png’
+
+     0K ........                                              100% 7.62M=0.001s
+
+2019-05-21 13:22:23 (7.62 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style01.png’ saved [8743/8743]
+
+--2019-05-21 13:22:23--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style02.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9788 (9.6K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style02.png’
+
+     0K .........                                             100% 26.2M=0s
+
+2019-05-21 13:22:23 (26.2 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style02.png’ saved [9788/9788]
+
+--2019-05-21 13:22:23--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style03.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10630 (10K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style03.png’
+
+     0K ..........                                            100% 10.7M=0.001s
+
+2019-05-21 13:22:23 (10.7 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/shadow_style03.png’ saved [10630/10630]
+
+--2019-05-21 13:22:23--  http://unhingedweb.com/wp-content/themes/gentle/css/img/style02.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2019-05-21 13:22:24 ERROR 404: Not Found.
+
+--2019-05-21 13:22:24--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style03.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1216 (1.2K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style03.png’
+
+     0K .                                                     100% 4.50M=0s
+
+2019-05-21 13:22:25 (4.50 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style03.png’ saved [1216/1216]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style04.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2055 (2.0K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style04.png’
+
+     0K ..                                                    100%  319M=0s
+
+2019-05-21 13:22:25 (319 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style04.png’ saved [2055/2055]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style05.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1994 (1.9K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style05.png’
+
+     0K .                                                     100% 5.73M=0s
+
+2019-05-21 13:22:25 (5.73 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style05.png’ saved [1994/1994]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06bg.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 950 [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06bg.png’
+
+     0K                                                       100%  196M=0s
+
+2019-05-21 13:22:25 (196 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06bg.png’ saved [950/950]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06bgh.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 944 [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06bgh.png’
+
+     0K                                                       100% 96.6M=0s
+
+2019-05-21 13:22:25 (96.6 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06bgh.png’ saved [944/944]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1719 (1.7K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06.png’
+
+     0K .                                                     100%  266M=0s
+
+2019-05-21 13:22:25 (266 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06.png’ saved [1719/1719]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06h.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1947 (1.9K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06h.png’
+
+     0K .                                                     100%  260M=0s
+
+2019-05-21 13:22:25 (260 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style06h.png’ saved [1947/1947]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style07bg.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1005 [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style07bg.png’
+
+     0K                                                       100%  173M=0s
+
+2019-05-21 13:22:25 (173 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style07bg.png’ saved [1005/1005]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style07.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1255 (1.2K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style07.png’
+
+     0K .                                                     100%  193M=0s
+
+2019-05-21 13:22:25 (193 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style07.png’ saved [1255/1255]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/style08.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1986 (1.9K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style08.png’
+
+     0K .                                                     100% 7.05M=0s
+
+2019-05-21 13:22:25 (7.05 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/style08.png’ saved [1986/1986]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows02.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3729 (3.6K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows02.png’
+
+     0K ...                                                   100% 17.3M=0s
+
+2019-05-21 13:22:25 (17.3 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows02.png’ saved [3729/3729]
+
+--2019-05-21 13:22:25--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows03.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2503 (2.4K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows03.png’
+
+     0K ..                                                    100%  442M=0s
+
+2019-05-21 13:22:26 (442 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows03.png’ saved [2503/2503]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows04.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4895 (4.8K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows04.png’
+
+     0K ....                                                  100% 29.3M=0s
+
+2019-05-21 13:22:26 (29.3 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows04.png’ saved [4895/4895]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows05.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6460 (6.3K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows05.png’
+
+     0K ......                                                100% 11.7M=0.001s
+
+2019-05-21 13:22:26 (11.7 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows05.png’ saved [6460/6460]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows07.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1316 (1.3K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows07.png’
+
+     0K .                                                     100%  268M=0s
+
+2019-05-21 13:22:26 (268 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows07.png’ saved [1316/1316]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows07f.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2345 (2.3K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows07f.png’
+
+     0K ..                                                    100% 34.2M=0s
+
+2019-05-21 13:22:26 (34.2 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/layerslider/arrows07f.png’ saved [2345/2345]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15287 (15K) [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox.png’
+
+     0K .......... ....                                       100% 10.0M=0.001s
+
+2019-05-21 13:22:26 (10.0 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox.png’ saved [15287/15287]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/fancybox/blank.gif
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/blank.gif’
+
+     0K                                                       100% 9.81M=0s
+
+2019-05-21 13:22:26 (9.81 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/blank.gif’ saved [43/43]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox-x.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 203 [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox-x.png’
+
+     0K                                                       100% 40.3M=0s
+
+2019-05-21 13:22:26 (40.3 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox-x.png’ saved [203/203]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox-y.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 176 [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox-y.png’
+
+     0K                                                       100% 27.1M=0s
+
+2019-05-21 13:22:26 (27.1 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancybox-y.png’ saved [176/176]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancy_title_over.png
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 70 [image/png]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancy_title_over.png’
+
+     0K                                                       100% 12.8M=0s
+
+2019-05-21 13:22:26 (12.8 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/fancybox/fancy_title_over.png’ saved [70/70]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/font/font_icons.eot
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36434 (36K) [application/vnd.ms-fontobject]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.eot’
+
+     0K .......... .......... .......... .....                100% 16.2M=0.002s
+
+2019-05-21 13:22:26 (16.2 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.eot’ saved [36434/36434]
+
+--2019-05-21 13:22:26--  http://unhingedweb.com/wp-content/themes/gentle/font/font_icons.eot?
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36434 (36K) [application/vnd.ms-fontobject]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.eot?’
+
+     0K .......... .......... .......... .....                100% 12.2M=0.003s
+
+2019-05-21 13:22:27 (12.2 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.eot?’ saved [36434/36434]
+
+--2019-05-21 13:22:27--  http://unhingedweb.com/wp-content/themes/gentle/font/font_icons.woff
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22564 (22K) [font/woff]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.woff’
+
+     0K .......... .......... ..                              100% 14.2M=0.002s
+
+2019-05-21 13:22:27 (14.2 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.woff’ saved [22564/22564]
+
+--2019-05-21 13:22:27--  http://unhingedweb.com/wp-content/themes/gentle/font/font_icons.ttf
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36172 (35K) [font/ttf]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.ttf’
+
+     0K .......... .......... .......... .....                100% 12.8M=0.003s
+
+2019-05-21 13:22:27 (12.8 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.ttf’ saved [36172/36172]
+
+--2019-05-21 13:22:27--  http://unhingedweb.com/wp-content/themes/gentle/font/font_icons.svg
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60500 (59K) [image/svg+xml]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.svg’
+
+     0K .......... .......... .......... .......... .......... 84% 4.74M 0s
+    50K .........                                             100% 94.4M=0.01s
+
+2019-05-21 13:22:27 (5.55 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/font/font_icons.svg’ saved [60500/60500]
+
+--2019-05-21 13:22:27--  http://unhingedweb.com/wp-content/themes/gentle/css/images/ui/icons/social.jpg
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2019-05-21 13:22:28 ERROR 404: Not Found.
+
+--2019-05-21 13:22:28--  http://unhingedweb.com/wp-content/themes/gentle/images/bg-sky-leather-tile.jpg
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3970 (3.9K) [image/jpeg]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/bg-sky-leather-tile.jpg’
+
+     0K ...                                                   100%  517M=0s
+
+2019-05-21 13:22:28 (517 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/bg-sky-leather-tile.jpg’ saved [3970/3970]
+
+--2019-05-21 13:22:28--  http://unhingedweb.com/wp-content/themes/gentle/images/bg-white-mezotint-tile.gif
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13879 (14K) [image/gif]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/bg-white-mezotint-tile.gif’
+
+     0K .......... ...                                        100% 12.6M=0.001s
+
+2019-05-21 13:22:28 (12.6 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/bg-white-mezotint-tile.gif’ saved [13879/13879]
+
+--2019-05-21 13:22:28--  http://unhingedweb.com/wp-content/themes/gentle/images/bg-lime-leather-tile.jpg
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7283 (7.1K) [image/jpeg]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/bg-lime-leather-tile.jpg’
+
+     0K .......                                               100% 9.73M=0.001s
+
+2019-05-21 13:22:28 (9.73 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/bg-lime-leather-tile.jpg’ saved [7283/7283]
+
+--2019-05-21 13:22:28--  http://unhingedweb.com/wp-content/themes/gentle/images/bg-brown-leather-tile.jpg
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2419 (2.4K) [image/jpeg]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/bg-brown-leather-tile.jpg’
+
+     0K ..                                                    100%  270M=0s
+
+2019-05-21 13:22:28 (270 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/bg-brown-leather-tile.jpg’ saved [2419/2419]
+
+--2019-05-21 13:22:28--  http://unhingedweb.com/wp-content/themes/gentle/images/ui/icons/social.jpg
+Reusing existing connection to unhingedweb.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14562 (14K) [image/jpeg]
+Saving to: ‘unhingedweb.com/wp-content/themes/gentle/images/ui/icons/social.jpg’
+
+     0K .......... ....                                       100% 39.3M=0s
+
+2019-05-21 13:22:28 (39.3 MB/s) - ‘unhingedweb.com/wp-content/themes/gentle/images/ui/icons/social.jpg’ saved [14562/14562]
+
+FINISHED --2019-05-21 13:22:28--
+Total wall clock time: 9.7s
+Downloaded: 65 files, 1.1M in 0.3s (3.95 MB/s)

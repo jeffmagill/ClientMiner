@@ -11,9 +11,20 @@ class Miner:
             raise AttributeError("Object cannot be used as a hammer.")
 
     def hit(self, urls):
+        results = []
         for url in urls:
+            single_result = { "url": url }
             for hammer in self.hammers:
-                hammer.hit(url)
+                gem = hammer.hit(url)
+                if gem is not None:
+                    # print("Found gem:")
+                    # print(gem)
+                    single_result.update(gem)
+                else:
+                    # print("No gem.")
+                    pass
+            results.append(single_result)
+        return results
 #   @urls = []
 #   def initialize(args)
 #     @urls = process_args(args)

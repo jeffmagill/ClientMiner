@@ -9,6 +9,7 @@ from .miner import Miner
 from .jeweler import Jeweler
 
 def run(target_path):
+    
     print ("Opening file: ", target_path)
 
     #TODO huge security vulnerability here. prevent "../" for starters
@@ -21,11 +22,11 @@ def run(target_path):
             urls.append(row[0])
 
     m = Miner()
-    m.add_hammer(HTTPHammer)
+    # m.add_hammer(HTTPHammer)
     # m.add_hammer(MobileHammer)
     # m.add_hammer(PageSpeedHammer)
     # m.add_hammer(WappalyzerHammer)
-#     m.add_hammer(WgetHammer)
+    m.add_hammer(WgetHammer)
     gems = m.hit(urls)
 
     print (Jeweler.polish(gems))
