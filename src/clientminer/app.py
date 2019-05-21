@@ -24,9 +24,9 @@ def run(target_path):
     m = Miner()
     # m.add_hammer(HTTPHammer)
     # m.add_hammer(MobileHammer)
-    # m.add_hammer(PageSpeedHammer)
+    m.add_hammer(PageSpeedHammer)
     # m.add_hammer(WappalyzerHammer)
-    m.add_hammer(WgetHammer)
+#     m.add_hammer(WgetHammer)
     gems = m.hit(urls)
 
     print (Jeweler.polish(gems))

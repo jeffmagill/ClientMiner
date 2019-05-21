@@ -22,7 +22,7 @@ class Jeweler:
             markup += "\n"
             for key in headers:
                 if key in item.keys():
-                    markup += item[key] + ","
+                    markup += str(item[key]) + ","
                 else:                
                     markup += ','
 
